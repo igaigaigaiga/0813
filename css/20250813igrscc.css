@@ -1067,7 +1067,7 @@ p.maintext {
    color:#f07798; 
    font-family:游ゴシック;
   font-weight: bold;
-   font-size: 12px;
+   font-size: 11px;
 line-height:2.5;
 }
 
@@ -1475,7 +1475,7 @@ opacity:0;
     }
 
     .decoration.ls{ /* 右下のバラ */
-      right: -3%;
+      right: -0%;
       bottom: -12%;
       width: 35%;
       height: auto;
